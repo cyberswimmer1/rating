@@ -1,0 +1,16 @@
+students:
+  - name: "Иван Петров"
+    grades:
+      math: 90
+      physics: 90
+      history: 90
+  - name: "Анна Смирнова"
+    grades:
+      math: 85
+      physics: 90
+      history: 92
+  - name: "Сергей Козлов"
+    grades:
+      math: 90
+      physics: 88
+      history: 90
